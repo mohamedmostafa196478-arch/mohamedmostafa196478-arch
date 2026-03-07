@@ -60,6 +60,9 @@ Thebes Academy
 
 ---
 Professional Links
+# 📄 MY CV
+
+[![MY CV](https://img.shields.io/badge/MY%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OCC8k-Fmfqkd75chIt7Ue7hTWbK5b43m/view?usp=sharing)
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
