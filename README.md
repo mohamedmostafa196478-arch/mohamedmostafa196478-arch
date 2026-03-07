@@ -59,9 +59,7 @@ Thebes Academy
 2022 – 2026
 
 ---
-# 🌐 Personal Website
-
-[![Portfolio](https://img.shields.io/badge/Personal%20Website-View%20Portfolio-blue?style=for-the-badge)](https://bug-carrot-15125670.figma.site/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 📧 Gmail: mohamedmostafa196478@gmail.com
 
