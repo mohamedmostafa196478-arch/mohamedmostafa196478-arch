@@ -59,9 +59,12 @@ Thebes Academy
 2022 – 2026
 
 ---
-Professional Links
-[![MY CV](https://img.shields.io/badge/My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](PUT-YOUR-CV-LINK-HERE)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+## 🔗 Professional Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bug-carrot-15125670.figma.site/)
+
+[![My CV](https://img.shields.io/badge/My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1OCC8k-Fmfqkd75chIt7Ue7hTWbK5b43m/view?usp=sharing)
+
 
 📧 Gmail: mohamedmostafa196478@gmail.com
 
