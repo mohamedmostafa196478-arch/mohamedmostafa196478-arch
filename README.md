@@ -62,5 +62,7 @@ Thebes Academy
 
 # 📫 Contact Me
 
-📧 Gmail: yourname@gmail.com  
-💼 LinkedIn: linkedin.com/in/mohamed-mostafa
+📧 Gmail: mohamedmostafa196478@gmail.com
+
+💼 LinkedIn: [linkedin.com/in/mohamed-mostafa
+](https://www.linkedin.com/in/mohamed-mostafa7755/)
