@@ -61,7 +61,7 @@ Thebes Academy
 ---
 # 🔗 Professional Links
 
-[![Links](https://img.shields.io/badge/Links-Portfolio%20%7C%20LinkedIn%20%7C%20GitHub-blue?style=for-the-badge)](https://bug-carrot-15125670.figma.site/)
+[![Portfolio & Contacts](https://img.shields.io/badge/Portfolio%20%26%20Contacts-Figma%20%7C%20LinkedIn%20%7C%20GitHub-orange?style=for-the-badge&logo=figma)](https://bug-carrot-15125670.figma.site/)
 
 # 📫 Contact Me
 
