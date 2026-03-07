@@ -59,6 +59,8 @@ Thebes Academy
 2022 – 2026
 
 ---
+# 🔗 Professional Links
+<a href="path/to/yourfile.pdf" target="_blank"> My Resume</a>
 
 # 📫 Contact Me
 
