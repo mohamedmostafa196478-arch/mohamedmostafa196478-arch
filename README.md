@@ -65,6 +65,7 @@ Thebes Academy
 
 [![My CV](https://img.shields.io/badge/My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1OCC8k-Fmfqkd75chIt7Ue7hTWbK5b43m/view?usp=sharing)
 
+---
 
 📧 Gmail: mohamedmostafa196478@gmail.com
 
