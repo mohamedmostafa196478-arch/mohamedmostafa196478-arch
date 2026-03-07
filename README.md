@@ -61,8 +61,7 @@ Thebes Academy
 ---
 # 🔗 Professional Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://bug-carrot-15125670.figma.site/)
-# 📫 Contact Me
+[![Portfolio & Contacts](https://img.shields.io/badge/Portfolio%20%26%20Contacts-Figma%20%7C%20LinkedIn%20%7C%20GitHub-orange?style=for-the-badge&logo=figma)](https://bug-carrot-15125670.figma.site/)
 
 📧 Gmail: mohamedmostafa196478@gmail.com
 
