@@ -59,7 +59,9 @@ Thebes Academy
 2022 – 2026
 
 ---
+# 🔗 Professional Links
 
+[![Links](https://img.shields.io/badge/Links-Portfolio%20%7C%20LinkedIn%20%7C%20GitHub-blue?style=for-the-badge)](https://bug-carrot-15125670.figma.site/)
 
 # 📫 Contact Me
 
