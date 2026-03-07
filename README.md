@@ -59,6 +59,8 @@ Thebes Academy
 2022 – 2026
 
 ---
+Professional Links
+🌐 Portfolio | 📄 MY CV
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 📧 Gmail: mohamedmostafa196478@gmail.com
